@@ -1,0 +1,20 @@
+.container{
+    margin-top: 30px;
+}
+
+.help-block{
+    color: red;
+
+}
+
+input.ng-invalid.ng-touched{
+    border: 0.09rem solid red;
+}
+
+input.ng-valid.ng-touched{
+    border: 0.09rem solid green;
+}
+
+.correct-block{
+    color: green;
+}
